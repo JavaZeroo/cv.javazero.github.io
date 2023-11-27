@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Junbiao Li(李俊标)
+title: Junbiao Li (李俊标)
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -17,14 +17,14 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Student of Mathematics
+role: Undergraduate Students
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Leicester
     url: https://le.ac.uk/
   - name: Dalian University of Technology
-    url: https://le.ac.uk/
+    url: https://en.dlut.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include DDPM, Schrödinger Bridge.
@@ -50,59 +50,44 @@ skills:
         percent: 99
         icon: python
         icon_pack: fab
-      - name: Pytorch
+      - name: Rust
         description: ''
-        percent: 80
+        percent: 70
+        icon: Rust
+        icon_pack: fab
+      - name: PyTorch
+        description: ''
+        percent: 90
         icon: chart-line
         icon_pack: fas
-      # - name: SQL
-      #   description: ''
-      #   percent: 40
-      #   icon: database
-      #   icon_pack: fas
+      # - name: 
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      # - name: Hiking
-      #   description: ''
-      #   percent: 60
-      #   icon: person-hiking
-      #   icon_pack: fas
-      # - name: Cats
-      #   description: ''
-      #   percent: 100
-      #   icon: cat
-      #   icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+    - name: Cinematography
+      description: 'Enthusiastic about the art and technique of film photography and videography. Skilled in camera operation, lighting, and composition.'
+      percent: 80
+      icon: film
+      icon_pack: fas
+    - name: Network and Server Enthusiast
+      description: 'Keen on exploring and configuring network hardware and servers. Proficient in setting up OpenWRT routers and managing TrueNAS storage solutions.'
+      percent: 80
+      icon: network-wired
+      icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: '/#contact'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
-  #   label: Follow me on Twitter
-  #   display:
-  #     header: true
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/JavaZeroo
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/
+  - icon: kaggle
+    icon_pack: fab
+    link: https://www.kaggle.com/jimmyisme1
+
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
