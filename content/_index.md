@@ -76,20 +76,20 @@ sections:
               * Comprehensive involvement in literature review, data construction, code development, model architecture design, and training
               * Regular discussions with the advisor to review progress and strategize
               Recognized for strong programming skills and independent experiment implementation. Dean (Li Xiaoming)[https://eecs.pku.edu.cn/xxkxjsxy/info/1500/6767.htm] praised my logically clear research approach.
-          - title: Autonomous Driving Deep Learning Intern
-            company: XPENG Robotics
-            company_url: 'https://www.pxing.com/en/'
-            company_logo: org-gc
-            location: Guangdong, China
-            date_start: '2022-07-01'
-            date_end: '2022-09-01'
-            description: |2-
-                Intern at XPENG Robotics focusing on autonomous driving and deep learning. Key responsibilities and achievements included:
-                * 3D Point Cloud Registration and Optimization using traditional and deep learning methods
-                * Development of an Open3D-based GUI tool for point cloud classification
-                * Stereo Depth Estimation and Semantic Segmentation data processing
-                * Contributed to Camera Calibration model overview
-                Praised for developing concise, elegant code and exceeding expectations in team collaboration. Invited to continue the internship in the following summer.
+        - title: Autonomous Driving Deep Learning Intern
+          company: XPENG Robotics
+          company_url: 'https://www.pxing.com/en/'
+          company_logo: org-gc
+          location: Guangdong, China
+          date_start: '2022-07-01'
+          date_end: '2022-09-01'
+          description: |2-
+              Intern at XPENG Robotics focusing on autonomous driving and deep learning. Key responsibilities and achievements included:
+              * 3D Point Cloud Registration and Optimization using traditional and deep learning methods
+              * Development of an Open3D-based GUI tool for point cloud classification
+              * Stereo Depth Estimation and Semantic Segmentation data processing
+              * Contributed to Camera Calibration model overview
+              Praised for developing concise, elegant code and exceeding expectations in team collaboration. Invited to continue the internship in the following summer.
 
     design:
       columns: '2'
