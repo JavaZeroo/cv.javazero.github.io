@@ -67,7 +67,7 @@ skills:
     items:
     - name: Cinematography
       description: 'Enthusiastic about the art and technique of film photography and videography. Skilled in camera operation, lighting, and composition.'
-      percent: 80
+      percent: 100
       icon: film
       icon_pack: fas
     - name: Network and Server Enthusiast
