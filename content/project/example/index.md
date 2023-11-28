@@ -1,6 +1,6 @@
 ---
 title: Kaggle Featured  Competition - Vesuvius Challenge - Ink Detection
-summary: Resurrect an ancient library from the ashes of a volcano - Rank 390/1249
+summary: Top 32% - Rank 390/1249
 
 tags:
   - Deep Learning
@@ -11,7 +11,7 @@ date: '2023-1-15T00:00:00Z'
 
 image:
   caption: Photo on scrollprize.org
-  focal_point: Smart  
+  focal_point: Smart
 
 # links:
 #   - icon: twitter
@@ -28,7 +28,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
