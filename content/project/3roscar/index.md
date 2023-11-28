@@ -18,6 +18,7 @@ The core of this project is to develop an autonomous driving car integrated with
 
 ## Technical Highlights
 Automatic Positioning and Navigation: Combining sensors like LIDAR, cameras, and IMUs, and utilizing SLAM technology, I achieved precise environmental perception and positioning, laying the foundation for autonomous navigation.
+
 Intelligent Following: Through computer vision technology, I realized intelligent recognition and tracking of pedestrians and drivable spaces.
 
 ## Hardware Composition
