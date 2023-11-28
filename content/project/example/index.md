@@ -1,22 +1,23 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Kaggle Featured  Competition - Vesuvius Challenge - Ink Detection
+summary: Resurrect an ancient library from the ashes of a volcano - Rank 390/1249
+
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+date: '2023-1-15T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+# external_link: 'https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection/overview'
 
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  caption: Photo on scrollprize.org
+  focal_point: Smart  
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+# links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: Follow
+#     url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''

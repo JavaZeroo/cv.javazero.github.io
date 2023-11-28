@@ -75,7 +75,7 @@ sections:
               * Completed model verification using Brownian bridges in two-dimensional scenarios
               * Comprehensive involvement in literature review, data construction, code development, model architecture design, and training
               * Regular discussions with the advisor to review progress and strategize
-              Recognized for strong programming skills and independent experiment implementation. Dean (Li Xiaoming)[https://eecs.pku.edu.cn/xxkxjsxy/info/1500/6767.htm] praised my logically clear research approach.
+              Recognized for strong programming skills and independent experiment implementation. Dean [Li Xiaoming](https://eecs.pku.edu.cn/xxkxjsxy/info/1500/6767.htm) praised my logically clear research approach.
         - title: Autonomous Driving Deep Learning Intern
           company: XPENG Robotics
           company_url: 'https://www.pxing.com/en/'
@@ -176,13 +176,13 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+      # buttons:
+      #   - name: All
+      #     tag: '*'
+      #   - name: Deep Learning
+      #     tag: Deep Learning
+      #   - name: Other
+      #     tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
