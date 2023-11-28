@@ -12,7 +12,9 @@ image:
   focal_point: Smart
 ---
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DkOOdc-4pl0?si=YXZffpnnWtgarjHB" title="ROS based Autonomous Car demo video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div align="center">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DkOOdc-4pl0?si=YXZffpnnWtgarjHB" title="ROS based Autonomous Car demo video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 # Project Overview
 The core of this project is to develop an autonomous driving car integrated with various advanced technologies and features. Our goal is to achieve high autonomy and intelligence in various environments. The project is divided into several key modules, including automatic positioning, mapping and navigation, intelligent following module, and Bird's Eye View (To be implemented) perception, among others.
