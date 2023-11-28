@@ -62,27 +62,35 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Assistant
+          company: Great Bay University
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Guangdong, China
+          date_start: '2023-07-01'
+          date_end: '2023-08-31'
           description: |2-
-              Responsibilities include:
+              Under the supervision of [Sikun Yang](https://sikunyang.github.io/), engaged in research on Denoising Diffusion Mode and Score Matching with Neural Networks. Responsibilities included:
+              * In-depth literature review and model implementation
+              * Completed model verification using Brownian bridges in two-dimensional scenarios
+              * Comprehensive involvement in literature review, data construction, code development, model architecture design, and training
+              * Regular discussions with the advisor to review progress and strategize
+              Recognized for strong programming skills and independent experiment implementation. Dean (Li Xiaoming)[https://eecs.pku.edu.cn/xxkxjsxy/info/1500/6767.htm] praised my logically clear research approach.
+          - title: Autonomous Driving Deep Learning Intern
+            company: XPENG Robotics
+            company_url: 'https://www.pxing.com/en/'
+            company_logo: org-gc
+            location: Guangdong, China
+            date_start: '2022-07-01'
+            date_end: '2022-09-01'
+            description: |2-
+                Intern at XPENG Robotics focusing on autonomous driving and deep learning. Key responsibilities and achievements included:
+                * 3D Point Cloud Registration and Optimization using traditional and deep learning methods
+                * Development of an Open3D-based GUI tool for point cloud classification
+                * Stereo Depth Estimation and Semantic Segmentation data processing
+                * Contributed to Camera Calibration model overview
+                Praised for developing concise, elegant code and exceeding expectations in team collaboration. Invited to continue the internship in the following summer.
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
@@ -181,54 +189,54 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  # - block: markdown
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: '1'
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: card
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: |-
+  #       {{% callout note %}}
+  #       Quickly discover relevant content by [filtering publications](./publication/).
+  #       {{% /callout %}}
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: true
+  #   design:
+  #     columns: '2'
+  #     view: citation
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     columns: '2'
+  #     view: compact
+  # - block: tag_cloud
+  #   content:
+  #     title: Popular Topics
+  #   design:
+  #     columns: '2'
   - block: contact
     id: contact
     content:
