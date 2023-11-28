@@ -27,7 +27,7 @@ organizations:
     url: https://en.dlut.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include DDPM, Schrödinger Bridge.
+bio: My research interests include DDPM, Schrödinger Bridge and Computer Vision.
 
 # Interests to show in About widget
 # interests:
@@ -38,7 +38,7 @@ education:
   courses:
     - course: BSc of Mathematics
       # institution: Dalian University of Te
-      year: 2020
+      year: 2020-Present
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -53,12 +53,12 @@ skills:
       - name: Rust
         description: ''
         percent: 70
-        icon: Rust
+        icon: rust
         icon_pack: fab
       - name: PyTorch
         description: ''
         percent: 90
-        icon: chart-line
+        icon: pytorch
         icon_pack: fas
       # - name: 
   - name: Hobbies
