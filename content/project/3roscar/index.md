@@ -22,7 +22,7 @@ Intelligent Following: Through computer vision technology, I realized intelligen
 
 ## Hardware Composition
 The success of the project is inseparable from carefully selected hardware components. I used NVIDIA Jetson Nano 4GB as the main controller, STM32F103RCT6 microcontroller as the sub-controller, along with ICM20948 nine-axis IMU chip, and AM2857 motor drive chip, among others. These high-performance hardware components ensure the stability and reliability of the car's system.
-![Jetson Nano](project/3roscar/jetson.jpg)
+![Jetson Nano](jetson.jpg)
 
 ## Application of SLAM Technology
 SLAM technology played a vital role in this project. I used FasterLIO as the mapping algorithm, ensuring accuracy in real-time mapping. Due to its lightIight nature, it operates efficiently even under limited computational resources.
