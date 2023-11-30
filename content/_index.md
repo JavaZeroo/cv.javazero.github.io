@@ -65,7 +65,7 @@ sections:
         - title: Research Assistant
           company: Great Bay University
           company_url: ''
-          company_logo: org-gc
+          # company_logo: org-gc
           location: Guangdong, China
           date_start: '2023-07-01'
           date_end: '2023-08-31'
@@ -79,7 +79,7 @@ sections:
         - title: Autonomous Driving Deep Learning Intern
           company: XPENG Robotics
           company_url: 'https://www.pxing.com/en/'
-          company_logo: org-gc
+          company_logo: xpeng
           location: Guangdong, China
           date_start: '2022-07-01'
           date_end: '2022-09-01'

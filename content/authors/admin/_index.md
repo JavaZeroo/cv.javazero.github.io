@@ -59,7 +59,7 @@ skills:
         description: ''
         percent: 90
         icon: pytorch
-        icon_pack: fas
+        icon_pack: custom
       # - name: 
   - name: Hobbies
     color: '#eeac02'
