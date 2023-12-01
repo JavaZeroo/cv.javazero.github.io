@@ -37,9 +37,7 @@ bio: My research interests include DDPM, Schrödinger Bridge and Computer Vision
 education:
   courses:
     - course: BSc of Mathematics
-      institution: 
-        - University of Leicester
-        - Dalian University of Technology
+      institution: University of Leicester, Dalian University of Technology
       year: 2020-Present
 
 # Skills
