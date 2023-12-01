@@ -38,8 +38,8 @@ education:
   courses:
     - course: BSc of Mathematics
       institution: 
-        - name: University of Leicester
-        - name: Dalian University of Technology
+        - University of Leicester
+        - Dalian University of Technology
       year: 2020-Present
 
 # Skills
