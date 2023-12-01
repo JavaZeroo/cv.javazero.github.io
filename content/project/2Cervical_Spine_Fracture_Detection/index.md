@@ -3,7 +3,7 @@ title: Kaggle Featured Competition - RSNA 2022 Cervical Spine Fracture Detection
 summary: Top 59% - Rank 520/883
 # tags:
 #   - Demo
-date: "2022-10-28T"
+date: "2022-10-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ''

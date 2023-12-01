@@ -3,7 +3,7 @@ title: Kaggle Featured  Competition - Vesuvius Challenge - Ink Detection
 summary: Top 32% - Rank 390/1249
 # tags:
 #   - Deep Learning
-date: '2023-1-15T'
+date: "2023-1-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: 'https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection/overview'
