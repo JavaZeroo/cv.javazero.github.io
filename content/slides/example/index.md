@@ -13,133 +13,49 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Hugo Blox Builder
-
-[Hugo Blox Builder](https://hugoblox.com/) | [Documentation](https://docs.hugoblox.com/content/slides/)
-
----
-
-## Features
-
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+# Diffusion Probability Model
+### Li Junbiao & Xie Junhong
+#### Supervisors: Yang Sikun, Zheng Xubin, Li Xiaoming
 
 ---
 
-## Controls
-
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://revealjs.com/pdf-export/)
+## Table of Contents
+1. Research Question and Motivation
+2. Research Approach and Methodology
+3. Interim Results
+4. Summary and Reflections
+5. Work Plan and Outlook
 
 ---
 
-## Code Highlighting
-
-Inline code: `variable`
-
-Code block:
-
-```python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
-```
+## Research Question and Motivation
+- **Gaussian Distribution**: Used to represent measurement errors, for example, the volume of a 220mL filled beer bottle follows a Gaussian distribution with a mean of 220mL and a specific variance.
+- **Denoising**: Introduces methods for denoising data using Diffusion Bridge and Score Matching through neural networks.
+- **Score Matching**: Compares with DDPM which requires forward and backward processes, while this research only needs to construct a forward Bridge.
 
 ---
 
-## Math
-
-In-line math: $x + y = z$
-
-Block math:
-
-$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
+## Research Approach and Methodology
+- **Diffusion Processes**: Discusses Drift Function and Diffusion Function.
+- **Diffusion Bridge**: Introduces Diffusion Bridge as a process with conditional constraints at time T to be K.
+- **Brownian Bridge**: Explains Brownian Bridge as a process for solving the backward Kolmogorov equation.
+- **Training Method**: Demonstrates how to calculate Brownian Bridge by sampling points from source and target distributions, making every time point and point on the Brownian bridge into training data.
 
 ---
 
-## Fragments
-
-Make content appear incrementally
-
-```
-{{%/* fragment */%}} One {{%/* /fragment */%}}
-{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
-{{%/* fragment */%}} Three {{%/* /fragment */%}}
-```
-
-Press `Space` to play!
-
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
+## Interim Results
+- Shows the prediction process of fitting the Score function using MLP, including tasks in 1D and 2D.
+- Introduces methods of fitting the Score function with neural networks, including generating “digit” images from the MNIST dataset.
 
 ---
 
-A fragment can accept two optional parameters:
+## Summary and Reflections
+- Discusses how simple models gradually reach a bottleneck in complex tasks.
+- Suggests methods for improving models, such as using a UNet-based Model and time encoding.
 
-- `class`: use a custom style (requires definition in custom CSS)
-- `weight`: sets the order in which a fragment appears
-
----
-
-## Speaker Notes
-
-Add speaker notes to your presentation
-
-```markdown
-{{%/* speaker_note */%}}
-
-- Only the speaker can read these notes
-- Press `S` key to view
-  {{%/* /speaker_note */%}}
-```
-
-Press the `S` key to view the speaker notes!
-
-{{< speaker_note >}}
-
-- Only the speaker can read these notes
-- Press `S` key to view
-  {{< /speaker_note >}}
 
 ---
 
-## Themes
-
-- black: Black background, white text, blue links (default)
-- white: White background, black text, blue links
-- league: Gray background, white text, blue links
-- beige: Beige background, dark text, brown links
-- sky: Blue background, thin dark text, blue links
-
----
-
-- night: Black background, thick white text, orange links
-- serif: Cappuccino background, gray text, brown links
-- simple: White background, black text, blue links
-- solarized: Cream-colored background, dark green text, blue links
-
----
-
-{{< slide background-image="/media/boards.jpg" >}}
-
-## Custom Slide
-
-Customize the slide style and background
-
-```markdown
-{{</* slide background-image="/media/boards.jpg" */>}}
-{{</* slide background-color="#0000FF" */>}}
-{{</* slide class="my-style" */>}}
-```
+## 5. Work Plan and Outlook
+- Explores time reversal and complex image generation (such as animals, portraits, etc.).
+- Plans to refine and tune the model, for instance, incorporating EfficientNet and ViT as encoders, and a Transformer decoder as the decoder.
