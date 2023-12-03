@@ -70,7 +70,7 @@ sections:
           date_start: '2023-07-01'
           # date_end: '2023-08-31'
           description: |2-
-              Under the supervision of [Sikun Yang](https://sikunyang.github.io/), engaged in research on Denoising Diffusion Mode and Score Matching with Neural Networks. Responsibilities included:
+              Under the supervision of [Sikun Yang](https://sikunyang.github.io/), engaged in research on Denoising Diffusion Probabilistic Models and Score Matching with Neural Networks. Responsibilities included:
               * In-depth literature review and model implementation
               * Completed model verification using Brownian bridges in two-dimensional scenarios
               * Comprehensive involvement in literature review, data construction, code development, model architecture design, and training
