@@ -1,6 +1,6 @@
 ---
 title: Kaggle Featured  Competition - Vesuvius Challenge - Ink Detection
-summary: <p class=""><span><img alt="bronze" src="media/icons/kaggle/bronzel@1x.png" title="bronze" height="12px" width="12 px"class="achievement-summary__medal-small">·</span><span title="" aria-label="">Bronze Medal - Top 7% - Rank 128/1925</span></p>
+summary: <p class=""><span><img alt="bronze" src="https://www.kaggle.com/static/images/medals/notebooks/bronzel@2x.png" title="bronze" height="12px" width="12 px"class="achievement-summary__medal-small">·</span><span title="" aria-label="">Bronze Medal - Top 7% - Rank 128/1925</span></p>
 # tags:
 #   - Deep Learning
 date: "2022-1-14T00:00:00Z" # For the order of projects
