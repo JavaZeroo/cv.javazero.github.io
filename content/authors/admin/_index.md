@@ -47,12 +47,12 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 99
+        percent:99
         icon: python
         icon_pack: fab
-      - name: C++
+      - name:C++
         description: ''
-        percent: 80
+        percent:80
         icon:c++
         icon_pack:fab
       - name: Java
