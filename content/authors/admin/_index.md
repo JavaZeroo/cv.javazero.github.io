@@ -50,16 +50,26 @@ skills:
         percent: 99
         icon: python
         icon_pack: fab
+      - name: C++
+        description: ''
+        percent: 80
+        icon: c++
+        icon_pack:fab
+      - name: Java
+        description: ''
+        percent: 80
+        icon: java
+        icon_pack: fab
       - name: Rust
         description: ''
         percent: 70
         icon: rust
         icon_pack: fab
-      - name: PyTorch
-        description: ''
-        percent: 90
-        icon: pytorch
-        icon_pack: custom
+      #- name: PyTorch
+        #description: ''
+        #percent: 90
+        #icon: pytorch
+        #icon_pack: custom
       # - name: 
   - name: Hobbies
     color: '#eeac02'
