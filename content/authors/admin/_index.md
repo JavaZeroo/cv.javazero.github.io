@@ -46,7 +46,7 @@ skills:
   - name: Technical
     items:
       - name: Python
-        description: ''
+        description:''
         percent:99
         icon: python
         icon_pack: fab
