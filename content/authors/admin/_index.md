@@ -53,12 +53,12 @@ skills:
       - name: C++
         description: ''
         percent: 80
-        icon: c++
+        icon:c++
         icon_pack:fab
       - name: Java
         description: ''
         percent: 80
-        icon: java
+        icon:java
         icon_pack: fab
       - name: Rust
         description: ''
