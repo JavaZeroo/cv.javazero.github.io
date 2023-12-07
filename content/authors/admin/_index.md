@@ -46,19 +46,19 @@ skills:
   - name: Technical
     items:
       - name: Python
-        description:''
-        percent:99
+        description: ''
+        percent: 99
         icon: python
         icon_pack: fab
-      - name:C++
+      - name: C++
         description: ''
-        percent:80
-        icon:c++
-        icon_pack:fab
+        percent: 80
+        icon: c++
+        icon_pack: fab
       - name: Java
         description: ''
         percent: 80
-        icon:java
+        icon: java
         icon_pack: fab
       - name: Rust
         description: ''
