@@ -1,6 +1,6 @@
 ---
 title: Kaggle Featured  Competition - Vesuvius Challenge - Ink Detection
-summary: Solo·Bronze Medal - Top 7% - Rank 128/1925
+summary: Solo·Bronze Medal·Top 7% - Rank 127/1877
 # tags:
 #   - Deep Learning
 date: "2022-1-14T00:00:00Z" # For the order of projects
