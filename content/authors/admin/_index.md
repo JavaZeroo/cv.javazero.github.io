@@ -52,7 +52,7 @@ skills:
         icon_pack: fab
       - name: C++
         description: ''
-        percent: 80
+        percent: 95
         icon: cpp
         icon_pack: fab
       - name: Java
