@@ -2,7 +2,7 @@
 title: Personal Projects - ROS based Autonomous Car
 summary: The core of this project is to develop an autonomous driving car integrated with various advanced technologies and features.
 
-date: "2022-12-28T00:00:00Z"
+date: "2022-1-16T00:00:00Z" # For the order of projects
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ''

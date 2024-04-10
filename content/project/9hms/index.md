@@ -6,7 +6,7 @@ summary: Solo·Silver Medal·Top 4% - Rank 110/2767
 date: "2022-1-13T00:00:00Z" # For the order of projects
 
 image:
-  caption: Photo by Child Mind Institute
+  caption: Photo by HMS
   focal_point: Smart
 
 links:
