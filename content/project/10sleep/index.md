@@ -1,5 +1,5 @@
 ---
-title: Kaggle Featured  Competition - Vesuvius Challenge - Ink Detection
+title: Kaggle Featured  Competition - Child Mind Institute - Detect Sleep States
 summary: Solo·Bronze Medal·Top 7% - Rank 127/1877
 # tags:
 #   - Deep Learning
