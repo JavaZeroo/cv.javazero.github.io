@@ -3,7 +3,7 @@ title: Kaggle Featured  Competition - HMS - Harmful Brain Activity Classificatio
 summary: Solo·Silver Medal·Top 4% - Rank 110/2767
 # tags:
 #   - Deep Learning
-date: "2022-1-13T00:00:00Z" # For the order of projects
+date: "2024-4-10T00:00:00Z" # For the order of projects
 
 image:
   caption: Photo by HMS
